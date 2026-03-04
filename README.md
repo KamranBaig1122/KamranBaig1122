@@ -1,5 +1,15 @@
+<p align="center">
+  <!-- Animated Header Banner -->
+  <img src="banner.png" alt="Kamran Baig Banner" width="800"/>
+</p>
+
 <h1 align="center">Hi 👋, I'm Kamran Baig</h1>
 <h3 align="center">AI Engineer | Full Stack Developer | Game Developer</h3>
+
+<!-- Typing Animation Intro -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?lines=AI+Engineer;Full+Stack+Developer;Game+Developer;Startup+Founder&center=true&width=500&height=50" alt="Typing Animation">
+</p>
 
 ---
 
@@ -49,19 +59,24 @@
 ## 📊 GitHub Stats
 ![Kamran's GitHub stats](https://github-readme-stats.vercel.app/api?username=KamranBaig1122&show_icons=true&theme=radical)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KamranBaig1122&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KamranBaig1122&layout=compact&theme=radical)
 
 ---
 
-## 🔥 Contribution Streak
+## 🔥 Contribution Streak (Snake Game)
 ![GitHub Streak](https://streak-stats.demolab.com?user=KamranBaig1122&theme=radical)
+
+<!-- Snake Contribution Game Workflow -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Platane/snk/master/demo.gif" alt="Snake Contribution Game Preview" width="600"/>
+</p>
 
 ---
 
 ## 📫 Connect With Me
-- 💼 LinkedIn (Add your link)
-- 🌍 Portfolio (Add your link)
-- 📧 Email (Add your email)
+- 💼 [LinkedIn](https://linkedin.com/in/KamranBaig) <!-- Replace with your LinkedIn -->
+- 🌍 [Portfolio](https://deepalgo.vercel.app) <!-- Replace with your Portfolio -->
+- 📧 Email: kamran@example.com <!-- Replace with your Email -->
 
 ---
 
